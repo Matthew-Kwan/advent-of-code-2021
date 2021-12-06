@@ -1,9 +1,6 @@
 """
 Advent of Code 2021
 Problem 2: Dive!
-
-Input: List of Integers - depths
-Output: Integer - Number of positive increases in depth
 """
 
 # part 1 and 2 (removed depth changes from part 1)
